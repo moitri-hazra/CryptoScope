@@ -50,6 +50,7 @@ COMPONENTS
 ![image](https://user-images.githubusercontent.com/109571491/233763001-97ddeede-1683-4419-805d-87ad7093a993.png)
 
 Searching Coin 
+
 ![image](https://user-images.githubusercontent.com/109571491/233763094-cac2eec8-40c5-4a06-b27f-b5def3aaf3ea.png)
 
 2. The Market Chart 
