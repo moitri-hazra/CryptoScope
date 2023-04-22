@@ -55,6 +55,7 @@ Searching Coin
 2. The Market Chart 
 
   with single coin
+  
   ![image](https://user-images.githubusercontent.com/109571491/233763151-c34e08ed-3768-47ff-a4b0-c3e237978446.png)
    
   with multiple coin comparing 
@@ -63,12 +64,15 @@ Searching Coin
   
   Has the option to change the range of data
   example: showing data for one day
+  
   ![image](https://user-images.githubusercontent.com/109571491/233763292-0d64fe71-930b-4f6b-a21b-ff59ec8b9ef2.png)
   
   Custom select the range 
+  
   ![image](https://user-images.githubusercontent.com/109571491/233763324-3af0d91c-849e-4935-970d-98132bf6ae46.png)
   
   Option of changing the chart type
+  
   ![image](https://user-images.githubusercontent.com/109571491/233763450-cf6dc626-2c8b-44ba-a31a-a1c396604b26.png)
 
 
