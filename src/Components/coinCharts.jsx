@@ -384,7 +384,7 @@ const options = coins.map((coin) => ({ id: coin.id, label: coin.id }));
 
       {/* ChartType Dropdown */}
 
-      <div onBlur={()=>{setChartTypeIsOpen(false)}}>
+      <div >
         <div className="relative inline-block w-full text-left">
           <span className="rounded-lg flex justify-center w-full ">
             <button
@@ -450,3 +450,4 @@ const options = coins.map((coin) => ({ id: coin.id, label: coin.id }));
 };
 
 export default CoinChart;
+
