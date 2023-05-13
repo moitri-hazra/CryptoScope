@@ -17,7 +17,7 @@ const CryptoCurrency = () => {
   const handleOptionClick = (event) => {
     setSelectedCurrency(event); 
     setDropDownIsOpen(false);
-    dispatch(updateCurrency(selectedCurrency)); //dispatching the new updated currency
+    dispatch(updateCurrency(event)); //dispatching the new updated currency
   };
 
   return (
@@ -72,4 +72,6 @@ const CryptoCurrency = () => {
   );
 };
 export default CryptoCurrency;
+
+
 
