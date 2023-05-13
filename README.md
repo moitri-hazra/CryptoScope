@@ -33,6 +33,16 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
+### `SUMMERY`
+
+The cryptocurrency dashboard we've created offers several functionalities. Firstly, there's a search bar that allows users to search for specific cryptocurrencies. Once a cryptocurrency is selected, users are directed to a dedicated page for that particular coin, where a history chart displaying the coin's price is shown. 
+
+On the home page, users can view a chart displaying the prices of one or more cryptocurrencies simultaneously by choosing from a dropdown list. Users can also change the range of the data displayed on the chart, from 1 day to 1 year, and switch between a line chart and a bar chart. There's also a custom option for selecting a specific range.
+
+A sidebar displays the market cap of the cryptocurrencies, and users can view their own profile and how many coins they own. There's a crypto exchange dashboard where users can exchange one cryptocurrency for another or for currency. 
+
+Finally, there's a currency changer beside the search bar where users can change the currency of the entire application, and the dashboard features both a dark and light theme. We used several technologies to create this dashboard, including React JS, React Router, Tailwind for CSS, Redux, and Redux Thunk for state management. We utilized the Coingecko API to fetch data for the dashboard.
+
 ### `DEMO`
 
 Default Page 
@@ -75,6 +85,27 @@ Searching Coin
   Option of changing the chart type
   
   ![image](https://user-images.githubusercontent.com/109571491/233763450-cf6dc626-2c8b-44ba-a31a-a1c396604b26.png)
+  
+  A sidebar displays the market cap of various cryptocurrencies
+  
+  ![image](https://github.com/moitri-hazra/CryptoScope/assets/109571491/6dbb24e0-5adb-4472-8503-14e3d078161c)
+  
+  A user profile showing how many coins they own
+  
+  ![image](https://github.com/moitri-hazra/CryptoScope/assets/109571491/8cd87bd8-41d1-472d-8554-b21c06752422)
+  
+  Crypto exchange feature that allows users to exchange one cryptocurrency for another, or for fiat currency
+  
+  ![image](https://github.com/moitri-hazra/CryptoScope/assets/109571491/3dc0fff5-df62-4eb8-94b9-d6bf290dd5c2)
+  
+  Clicking on a cryptocurrency by searching takes users to a dedicated page displaying a history chart of the coin's price.
+  
+  ![image](https://github.com/moitri-hazra/CryptoScope/assets/109571491/a27a4ed8-ac6f-4505-b94c-624b670f0aed)
+
+
+
+
+  
 
 
 
